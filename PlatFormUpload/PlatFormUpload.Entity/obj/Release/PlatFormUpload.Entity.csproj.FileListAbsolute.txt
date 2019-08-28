@@ -1,0 +1,14 @@
+E:\JianYan\PlatFormNM\PlatFormUpload\PlatFormUpload.Entity\bin\Release\PlatFormUpload.Entity.dll
+E:\JianYan\PlatFormNM\PlatFormUpload\PlatFormUpload.Entity\bin\Release\PlatFormUpload.Entity.pdb
+E:\JianYan\PlatFormNM\PlatFormUpload\PlatFormUpload.Entity\bin\Release\Chloe.dll
+E:\JianYan\PlatFormNM\PlatFormUpload\PlatFormUpload.Entity\bin\Release\Chloe.xml
+E:\JianYan\PlatFormNM\PlatFormUpload\PlatFormUpload.Entity\obj\Release\PlatFormUpload.Entity.csproj.CoreCompileInputs.cache
+E:\JianYan\PlatFormNM\PlatFormUpload\PlatFormUpload.Entity\obj\Release\PlatFormUpload.Entity.csproj.CopyComplete
+E:\JianYan\PlatFormNM\PlatFormUpload\PlatFormUpload.Entity\obj\Release\PlatFormUpload.Entity.dll
+E:\JianYan\PlatFormNM\PlatFormUpload\PlatFormUpload.Entity\obj\Release\PlatFormUpload.Entity.pdb
+E:\JianYan\PlatForm\src\PlatFormUploadNew\PlatFormUpload.Entity\bin\Release\PlatFormUpload.Entity.dll
+E:\JianYan\PlatForm\src\PlatFormUploadNew\PlatFormUpload.Entity\bin\Release\PlatFormUpload.Entity.pdb
+E:\JianYan\PlatForm\src\PlatFormUploadNew\PlatFormUpload.Entity\obj\Release\PlatFormUpload.Entity.csprojAssemblyReference.cache
+E:\JianYan\PlatForm\src\PlatFormUploadNew\PlatFormUpload.Entity\obj\Release\PlatFormUpload.Entity.csproj.CoreCompileInputs.cache
+E:\JianYan\PlatForm\src\PlatFormUploadNew\PlatFormUpload.Entity\obj\Release\PlatFormUpload.Entity.dll
+E:\JianYan\PlatForm\src\PlatFormUploadNew\PlatFormUpload.Entity\obj\Release\PlatFormUpload.Entity.pdb

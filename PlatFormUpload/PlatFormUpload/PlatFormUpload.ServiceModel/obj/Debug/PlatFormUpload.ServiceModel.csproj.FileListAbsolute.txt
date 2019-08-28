@@ -1,0 +1,17 @@
+E:\JianYan\PlatFormNM\PlatFormUpload\PlatFormUpload\PlatFormUpload.ServiceModel\bin\Debug\PlatFormUpload.ServiceModel.dll
+E:\JianYan\PlatFormNM\PlatFormUpload\PlatFormUpload\PlatFormUpload.ServiceModel\bin\Debug\PlatFormUpload.ServiceModel.pdb
+E:\JianYan\PlatFormNM\PlatFormUpload\PlatFormUpload\PlatFormUpload.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
+E:\JianYan\PlatFormNM\PlatFormUpload\PlatFormUpload\PlatFormUpload.ServiceModel\bin\Debug\ServiceStack.Interfaces.xml
+E:\JianYan\PlatFormNM\PlatFormUpload\PlatFormUpload\PlatFormUpload.ServiceModel\obj\Debug\PlatFormUpload.ServiceModel.csproj.CoreCompileInputs.cache
+E:\JianYan\PlatFormNM\PlatFormUpload\PlatFormUpload\PlatFormUpload.ServiceModel\obj\Debug\PlatFormUpload.ServiceModel.csproj.CopyComplete
+E:\JianYan\PlatFormNM\PlatFormUpload\PlatFormUpload\PlatFormUpload.ServiceModel\obj\Debug\PlatFormUpload.ServiceModel.dll
+E:\JianYan\PlatFormNM\PlatFormUpload\PlatFormUpload\PlatFormUpload.ServiceModel\obj\Debug\PlatFormUpload.ServiceModel.pdb
+E:\JianYan\PlatFormNM\PlatFormUpload\PlatFormUpload\PlatFormUpload.ServiceModel\obj\Debug\PlatFormUpload.ServiceModel.csprojAssemblyReference.cache
+E:\JianYan\PlatForm\src\PlatFormUploadNew\PlatFormUpload\PlatFormUpload.ServiceModel\bin\Debug\PlatFormUpload.ServiceModel.dll
+E:\JianYan\PlatForm\src\PlatFormUploadNew\PlatFormUpload\PlatFormUpload.ServiceModel\bin\Debug\PlatFormUpload.ServiceModel.pdb
+E:\JianYan\PlatForm\src\PlatFormUploadNew\PlatFormUpload\PlatFormUpload.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
+E:\JianYan\PlatForm\src\PlatFormUploadNew\PlatFormUpload\PlatFormUpload.ServiceModel\bin\Debug\ServiceStack.Interfaces.xml
+E:\JianYan\PlatForm\src\PlatFormUploadNew\PlatFormUpload\PlatFormUpload.ServiceModel\obj\Debug\PlatFormUpload.ServiceModel.csproj.CoreCompileInputs.cache
+E:\JianYan\PlatForm\src\PlatFormUploadNew\PlatFormUpload\PlatFormUpload.ServiceModel\obj\Debug\PlatFormUpload.ServiceModel.csproj.CopyComplete
+E:\JianYan\PlatForm\src\PlatFormUploadNew\PlatFormUpload\PlatFormUpload.ServiceModel\obj\Debug\PlatFormUpload.ServiceModel.dll
+E:\JianYan\PlatForm\src\PlatFormUploadNew\PlatFormUpload\PlatFormUpload.ServiceModel\obj\Debug\PlatFormUpload.ServiceModel.pdb
